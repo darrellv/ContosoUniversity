@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using ContosoUniversity.Models;  // SchoolContext
 using Microsoft.Extensions.DependencyInjection;  // CreateScope
+using ContosoUniversity.Data;
 
 namespace ContosoUniversity
 {
